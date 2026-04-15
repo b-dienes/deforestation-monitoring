@@ -38,10 +38,24 @@ NDVI differences between time steps are used to identify potential vegetation lo
 ---
 
 ## Outputs
-- NDVI time series plots
-- Mean NDVI trend over time
-- NDVI raster maps (first vs last observation)
-- NDVI difference map (change detection)
+
+### Mean NDVI Trend Over Time
+![Mean NDVI trend over time](mean_ndvi_over_time.png)
+
+---
+
+### NDVI Raster Maps (First vs. Last Observation)
+![NDVI first vs last observation](ndvi_first_last_year.png)
+
+---
+
+### NDVI Change Detection (Difference Map)
+![NDVI difference map](delta_ndvi_first_last_year.png)
+
+---
+
+### Areas of Lowest NDVI (Potential Deforestation)
+![Lowest NDVI difference map](lowest_delta_ndvi_first_last_year.png)
 
 ---
 
