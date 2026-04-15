@@ -1,7 +1,6 @@
 jupyterlab
 ipykernel
 requests
-geopandas
 rasterio
 numpy
 matplotlib
