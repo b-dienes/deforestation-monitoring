@@ -1,0 +1,28 @@
+# API key
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Output data
+data/output/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# QGIS / GDAL auxiliary files
+*.aux.xml
+*.ovr
+
+# Temporary logs
+*.log
+
+# Virtual environments
+env/
+venv/
+.venv/

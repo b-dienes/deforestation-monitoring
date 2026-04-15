@@ -1,0 +1,8 @@
+jupyterlab
+ipykernel
+requests
+geopandas
+rasterio
+numpy
+matplotlib
+python-dotenv
